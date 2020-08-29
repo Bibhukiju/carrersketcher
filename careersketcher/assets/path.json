@@ -1,0 +1,98 @@
+{
+    "afterTwelve": {
+        "interest_name": {
+            "Engineer": {
+                "special_notes": {
+                    "note_title": "Join top colleges to have a better environment"
+                },
+                "has_subfields": "True",
+                "subfields": {
+                    "subfield_1": "Computer Engineer",
+                    "subfield_2": "Electrical Engineer",
+                    "subfield_3": "IT Engineer",
+                    "subfield_4": "BioMedical Engineer"
+                },
+                "entrance_exams": "True",
+                "competition": "High",
+                "entrance_institutes": {
+                    "available_institues": "14",
+                    "starting_price": "12135",
+                    "institute_1": {
+                        "institue_name": "PEA",
+                        "location": "Thapathali",
+                        "number": "22131",
+                        "scholarships": {
+                            "available": "True",
+                            "criteria": "Should have more than ........."
+                        },
+                        "additional_details": {
+                            "additional_courses": "Medical Entrance Preparation"
+                        }
+                    },
+                    "institute_2": {
+                        "institue_name": "SEA",
+                        "location": "Thapathali",
+                        "number": "20131",
+                        "scholarships": {
+                            "available": "True",
+                            "criteria": "Should have more than ........."
+                        },
+                        "additional_details": {
+                            "additional_courses": "Medical Entrance Preparation"
+                        }
+                    }
+                }
+            },
+            "Doctor": {
+                "special_notes": {
+                    "note_title": "Join top colleges to have a better environment"
+                },
+                "has_subfields": "True",
+                "subfields": {
+                    "subfield_1": "Computer Engineer",
+                    "subfield_2": "Electrical Engineer",
+                    "subfield_3": "IT Engineer",
+                    "subfield_4": "BioMedical Engineer"
+                },
+                "entrance_exams": "True",
+                "competition": "High",
+                "entrance_institutes": {
+                    "available_institues": "14",
+                    "starting_price": "12135",
+                    "institute_1": {
+                        "institue_name": "PEA",
+                        "location": "Thapathali",
+                        "number": "22131",
+                        "scholarships": {
+                            "available": "True",
+                            "criteria": "Should have more than ........."
+                        },
+                        "additional_details": {
+                            "additional_courses": "Medical Entrance Preparation"
+                        }
+                    },
+                    "institute_2": {
+                        "institue_name": "SEA",
+                        "location": "Thapathali",
+                        "number": "20131",
+                        "scholarships": {
+                            "available": "True",
+                            "criteria": "Should have more than ........."
+                        },
+                        "additional_details": {
+                            "additional_courses": "Medical Entrance Preparation"
+                        }
+                    }
+                }
+            },
+            "IT Officer": {
+                "special_notes": {
+                    "note_title": "Join top colleges to have a better environment"
+                },
+                "has_subfields": "False",
+                "entrance_exams": "False",
+                "competition": "Low"
+            }
+        }
+    }
+}
